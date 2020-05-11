@@ -1,1 +1,1 @@
-console.log("Resolução de conflitos!\n");
+console.log("Teste para resolução de conflitos!\n");
